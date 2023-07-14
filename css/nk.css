@@ -8,6 +8,10 @@ a {
     text-decoration: none !important;
 }
 
+#home,#about,#education,#skill,#projects,#contact,#map,#footer{
+    overflow-x: hidden;
+}
+
 /* ******************* navbar  ******************* */
 ul {
     list-style: none !important;
