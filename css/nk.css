@@ -148,7 +148,12 @@ ul {
     width: 90%;
 
 }
-
+.bg-1{
+  z-index: 99;
+  position: sticky;
+  top: 0;
+  background: white;
+}
 .bg-11 {
     background-color: rgb(236, 236, 236);
 }
